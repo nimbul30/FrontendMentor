@@ -1,5 +1,7 @@
 body {
   background-color: #d5e1ef;
+   display: grid;
+  justify-content: center;
 }
 
 img {
