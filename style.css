@@ -1,0 +1,37 @@
+body {
+  background-color: #d5e1ef;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 10px;
+  margin-top: 15px;
+
+
+}
+
+.container {
+  background-color: #fff;
+  width: 350px;
+  height: 450px;
+  border-radius: 10px;
+
+}
+
+.container div {
+  display: grid;
+  justify-items: center;
+
+}
+
+h1,
+p {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Outfit' sans-serif
+}
+
+p {
+  font-size: 15px;
+}
